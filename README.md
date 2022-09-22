@@ -1,15 +1,15 @@
 Greetings everyone! 
-My name is Simão Cunha and I'm currently studying Software Engineering at University of Minho. 
+My name is Tiago Silva and I'm currently studying Software Engineering at University of Minho. 
 
 Here you have several ways to contact me:
 
-[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sim%C3%A3o-cunha-379785202/)
-[![Instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simaocunha71/)
-[![Email badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:simaopscunha@outlook.pt)
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-silva-48b244248/)
+[![Instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/surumkata/)
+[![Email badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:a93277@alunos.uminho.pt)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simaocunha71&layout=compact&theme=vue-dark)](https://github.com/simaocunha71/github-readme-stats)
-![Simão Cunha's GitHub stats](https://github-readme-stats.vercel.app/api?username=simaocunha71&show_icons=true&theme=vue-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surumkata&layout=compact&theme=vue-dark)](https://github.com/surumkata/github-readme-stats)
+![Tiago Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=surumkata&show_icons=true&theme=vue-dark)
 
 ## My college projects :floppy_disk:
 <!-- start college projects section -->
