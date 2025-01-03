@@ -1,5 +1,5 @@
 Greetings everyone! 
-My name is Tiago Silva and I'm currently studying Software Engineering at University of Minho. 
+My name is Tiago Silva and I'm a MSc Graduate in Informatics Engineering from the University of Minho.
 
 Here you have several ways to contact me:
 
